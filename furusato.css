@@ -1,0 +1,25 @@
+p{
+    text-align: left;
+    color:black; font-family: arial
+}
+h1,h2,h3{background-color: rgb(0, 128, 55);}
+
+#kic1{
+    background-color:rgb(17, 255, 0);
+}
+
+.kd1{
+    color:yellow;
+}
+
+.kd2{
+    text-align:center;
+}
+
+/*ul li:first-child {color: skyblue;}*/
+
+a:link { color :violet;}
+a:visited { color :orange;}
+a:hover {color: pink;}
+a:active {color : red;}
+input:focus{ background: skyblue;}
